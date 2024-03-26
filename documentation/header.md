@@ -1,0 +1,1 @@
+    This is a common header for all files in the project.

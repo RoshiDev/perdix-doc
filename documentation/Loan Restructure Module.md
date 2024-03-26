@@ -1,3 +1,4 @@
+<!-- include: header.md -->
 ## Loan Restructure Module
 
     The Loan Restructure Module provides a structured approach to loan rescheduling, ensuring that the process is efficient, compliant, and aligned with organizational goals.
