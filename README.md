@@ -34,14 +34,8 @@ Perdix Software is built to streamline various aspects of customer interaction a
 
 ### Prerequisites
 
-Before you begin, ensure you have the following installed:
-- [Node.js](https://nodejs.org/en/) (version X or above)
-- [MongoDB](https://www.mongodb.com/) (version X or above)
-- Any other specific software or libraries required by the project.
 
-### Installation
 
-1. Clone the repository:
 
 
 [![Linkedin](/documentation/files/icon/linkedin.png) LinkedIn](https://in.linkedin.com/company/dvarasolutions)

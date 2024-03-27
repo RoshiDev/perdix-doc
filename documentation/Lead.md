@@ -1,6 +1,34 @@
+## Lead Generation Module
+
+    The Lead Generation module facilitates the process of generating and managing leads. It includes the following key stages:
+
+### Leads Dashboard
+
+![LEAD_ORG_DB](files/leads/leadDB.png)
+
+The Leads Dashboard provides an overview of all leads in the system. It includes the following stages:
+
+- **Lead Generation**: Leads that have been generated but not yet processed.
+- **Incomplete Lead**: Leads that are missing required information or are not yet ready for follow-up.
+- **Lead Follow Up**: Leads that are being actively followed up on by sales or marketing teams.
+- **Ready for Screening**: Leads that have been processed and are ready for further screening or evaluation.
+- **Rejected Lead**: Leads that have been rejected due to various reasons.
+
+### Lead Bulk Upload
+
+The Lead Bulk Upload feature allows users to upload leads in bulk, streamlining the process of adding multiple leads to the system at once.
+
+- **Total Leads Uploaded**: Indicates the total number of leads that have been uploaded using this feature.
+
+### Lead Assignment Pending
+
+Leads that are pending assignment to a specific sales or marketing representative. These leads are awaiting assignment based on criteria such as location, product interest, or other factors.
+
+The Lead Generation module helps organizations efficiently manage leads from generation to assignment, ensuring that leads are properly followed up on and converted into opportunities.
+
 
 # Lead Generation 
-
+![LEAD_GEN](files/leads/leadGeneration.png)
 
 ## Lead Profile
 
